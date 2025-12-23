@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-  /* // test for: 192.168.9.1:9999*/
+  /* // for test: 192.168.9.1:9999*/
   fmt.Println("test:", os.Args[1]) 
 }
